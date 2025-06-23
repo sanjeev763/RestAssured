@@ -1,0 +1,40 @@
+{
+    "book": [
+      {
+        "title": "Sample Book",
+        "author": "John Doe",
+        "price": 29.99,
+        "category": "reference"
+      },
+      {
+        "title": "The Great Adventure",
+        "author": "Jane Smith",
+        "price": 19.95,
+        "category": "fiction"
+      },
+      {
+        "title": "Cosmos Explained",
+        "author": "Carl Sagan",
+        "price": 35.50,
+        "category": "science"
+      },
+      {
+        "title": "A Brief History of Time",
+        "author": "Stephen Hawking",
+        "price": 25.00,
+        "category": "non-fiction"
+      },
+      {
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "price": 15.99,
+        "category": "fantasy"
+      },
+      {
+        "title": "World War II Chronicles",
+        "author": "Emma Brown",
+        "price": 22.75,
+        "category": "history"
+      }
+    ]
+}
