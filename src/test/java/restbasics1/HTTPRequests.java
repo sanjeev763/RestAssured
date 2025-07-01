@@ -39,11 +39,11 @@ public class HTTPRequests {
                 .header("x-api-key", "reqres-free-v1")
                 .body(hm)
         .when()
-                .post("https://reqres.in/api/users");
-//        .then()
-//                .statusCode(201)
-//                .body("name",equalTo("sanjeev"))
-//                .log().all();
+                .post("https://reqres.in/api/users")
+        .then()
+                .statusCode(201)
+                .body("name",equalTo("sanjeev"))
+                .log().all().extract().response();
         id = res.jsonPath().getInt("id");
         System.out.println("id : "+id);
     }
