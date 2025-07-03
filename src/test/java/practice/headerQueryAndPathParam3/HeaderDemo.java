@@ -1,4 +1,4 @@
-package headerQueryAndPathParam3;
+package practice.headerQueryAndPathParam3;
 
 import io.restassured.http.Header;
 import io.restassured.http.Headers;

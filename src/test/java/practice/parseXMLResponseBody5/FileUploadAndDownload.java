@@ -1,4 +1,4 @@
-package parseXMLResponseBody5;
+package practice.parseXMLResponseBody5;
 
 import org.testng.annotations.Test;
 

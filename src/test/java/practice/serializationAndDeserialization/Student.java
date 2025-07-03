@@ -1,4 +1,4 @@
-package serializationAndDeserialization;
+package practice.serializationAndDeserialization;
 
 
 public class Student {

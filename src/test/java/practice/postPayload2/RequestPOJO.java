@@ -1,4 +1,4 @@
-package postPayload2;
+package practice.postPayload2;
 
 
 public class RequestPOJO {

@@ -1,4 +1,4 @@
-package parseResponseBody4;
+package practice.parseResponseBody4;
 
 import io.restassured.response.Response;
 import org.json.JSONArray;

@@ -1,4 +1,4 @@
-package restbasics1;
+package practice.restbasics1;
 import static io.restassured.RestAssured.*;
 import static org.hamcrest.Matchers.*;
 

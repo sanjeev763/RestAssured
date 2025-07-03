@@ -1,4 +1,4 @@
-package postPayload2;
+package practice.postPayload2;
 import io.restassured.response.Response;
 import org.testng.annotations.Test;
 

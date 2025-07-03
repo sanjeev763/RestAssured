@@ -1,4 +1,4 @@
-package jsonXmlSchemaValidation6;
+package practice.jsonXmlSchemaValidation6;
 
 import io.restassured.matcher.RestAssuredMatchers;
 import io.restassured.module.jsv.JsonSchemaValidator;

@@ -1,4 +1,4 @@
-package authorization7;
+package practice.authorization7;
 
 import org.testng.annotations.Test;
 import static io.restassured.RestAssured.*;

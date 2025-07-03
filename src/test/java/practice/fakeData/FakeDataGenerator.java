@@ -1,4 +1,4 @@
-package fakeData;
+package practice.fakeData;
 
 import com.github.javafaker.Faker;
 import org.testng.annotations.Test;
